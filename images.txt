@@ -8,4 +8,4 @@
 
 xhofe/alist
 easychen/checkchan
-node
+node:22-alpine
