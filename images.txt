@@ -9,3 +9,4 @@
 xhofe/alist
 easychen/checkchan
 node:22-alpine
+whyour/qinglong
